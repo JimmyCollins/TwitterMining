@@ -1,1 +1,0 @@
-python twitter-stream-download.py -q "trump" -d "C:\Users\jcollin1\Desktop\Twitter Mining\output"
